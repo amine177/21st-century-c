@@ -1,5 +1,6 @@
 // all rights go to book author
-// compile using : gcc erf.c -o erf -lm -g -Wall -O3 -std=gnu11
+// compile using: gcc example-1.1.c -o exmample-1.1 -lm -g -Wall -O3 -std=gnu11
+
 #include <math.h>
 #include <stdio.h>
 
